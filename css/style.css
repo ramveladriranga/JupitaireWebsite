@@ -257,12 +257,13 @@
 }
 
 .header-carousel .owl-nav {
-    position: absolute;
+    /* position: absolute;
     top: 50%;
     right: 8%;
     transform: translateY(-50%);
     display: flex;
-    flex-direction: column;
+    flex-direction: column; */
+    display: none;
 }
 
 .header-carousel .owl-nav .owl-prev,
